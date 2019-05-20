@@ -1,4 +1,4 @@
-package CreationalPattern.builderPatterns;
+package CreationalPattern.BuilderPatterns;
 
 public class ConcreteBuilder implements Builder {
 

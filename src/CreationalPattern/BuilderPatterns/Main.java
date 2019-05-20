@@ -1,4 +1,4 @@
-package CreationalPattern.builderPatterns;
+package CreationalPattern.BuilderPatterns;
 
 /**
  * 具体的Builder作为，具体产品的建造说明书（实现具体的方法），而Director作为具体的建造者，调用具体Builder来建造

@@ -1,4 +1,4 @@
-package CreationalPattern.singleton;
+package CreationalPattern.Singleton;
 
 public class EagerSingleton {
 
