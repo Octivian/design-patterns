@@ -1,6 +1,6 @@
 package StructuralPattern.Adapter.client;
 
-import StructuralPattern.Adapter.target.DBsocketInterface;
+import StructuralPattern.Adapter.target1.DBsocketInterface;
 
 public class Hotel {
     private DBsocketInterface socket;

@@ -1,6 +1,6 @@
 package StructuralPattern.Adapter.adapter;
 
-import StructuralPattern.Adapter.target.DBsocketInterface;
+import StructuralPattern.Adapter.target1.DBsocketInterface;
 import StructuralPattern.Adapter.adaptee.GBSocketInterface;
 
 public class DBSocketAdapter implements DBsocketInterface {

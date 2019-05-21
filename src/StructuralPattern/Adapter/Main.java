@@ -1,8 +1,8 @@
 package StructuralPattern.Adapter;
 
 import StructuralPattern.Adapter.client.Hotel;
-import StructuralPattern.Adapter.target.DBSocket;
-import StructuralPattern.Adapter.target.DBsocketInterface;
+import StructuralPattern.Adapter.target1.DBSocket;
+import StructuralPattern.Adapter.target1.DBsocketInterface;
 import StructuralPattern.Adapter.adaptee.GBSocket;
 import StructuralPattern.Adapter.adaptee.GBSocketInterface;
 import StructuralPattern.Adapter.adapter.DBSocketAdapter;
